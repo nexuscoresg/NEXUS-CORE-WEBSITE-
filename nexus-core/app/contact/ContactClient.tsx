@@ -147,7 +147,7 @@ export default function ContactClient() {
                     <div>
                       <h4 className="text-sm font-medium text-violet-300 mb-1 uppercase tracking-wider">Email Address</h4>
                       <a href="mailto:nexuscore.sg@gmail.com" className="text-white font-medium hover:text-violet-200 transition-colors text-lg">
-                        nexuscore.sg@gmail.com
+                        support@nexuscore.com.sg
                       </a>
                     </div>
                   </div>
@@ -160,7 +160,7 @@ export default function ContactClient() {
                       <h4 className="text-sm font-medium text-violet-300 mb-1 uppercase tracking-wider">Phone Numbers</h4>
                       <p className="text-white font-medium hover:text-violet-200 transition-colors text-lg">
                         Tel: 95 (+123) 259 987 <br />
-                        Mob: (+0122) 3250 166 25
+                        Mob: +65 80138954
                       </p>
                     </div>
                   </div>
@@ -228,7 +228,7 @@ export default function ContactClient() {
                         <option value="Maintenance and Support">Maintenance and Support</option>
                         <option value="Data Center & Cloud">Data Center & Cloud</option>
                         <option value="Enterprise IoT Solutions">Enterprise IoT Solutions</option>
-                        <option value="Distribution & Logistics">Distribution & Logistics</option>
+                        <option value="Distribution & Logistics">DPO as Service</option>
                       </select>
                       <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center px-4 text-slate-500">
                         <svg className="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" /></svg>
