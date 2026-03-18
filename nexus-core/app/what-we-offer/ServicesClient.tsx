@@ -162,7 +162,7 @@ const services = [
   },
   {
     id: "logistics",
-    title: "Distribution & Logistics",
+    title: "DPO as a Service",
     desc: "Deliver Network equipment worldwide.",
     icon: Truck,
     colSpan: "md:col-span-2 lg:col-span-4",
@@ -172,7 +172,7 @@ const services = [
     content: (
       <div className="mt-8 flex flex-col h-full">
         <p className="text-slate-600 leading-relaxed mb-8">
-          We deliver Network equipment worldwide offer a full line of most network equipment vendors, cost effectively and globally, we provide reverse and forward logistics as per Client requirement along with EOR and IOR services.
+         We offers a comprehensive DPO-as-a-Service, ensuring 100% PDPA compliance through expert audits, policy governance, and staff training. This solution protects organizations from fines of up to S$1,000,000 by replacing multiple consultants with a single, trusted partner. Streamline back-office operations and meet all Singapore compliance requirements seamlessly. Learn more about Stellar's DPO service.
         </p>
         <div className="mt-auto relative h-32 rounded-xl overflow-hidden">
           <Image src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=800&q=80" alt="Logistics" fill className="object-cover" referrerPolicy="no-referrer" />
