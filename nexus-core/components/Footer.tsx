@@ -145,7 +145,7 @@ export default function Footer() {
                   <p className="text-xs font-bold text-white uppercase tracking-wider mb-1">
                     Call Us
                   </p>
-                  <p className="text-slate-300">(888) 1452 756</p>
+                  <p className="text-slate-300">+65 80138954</p>
                 </div>
               </div>
 
@@ -158,10 +158,10 @@ export default function Footer() {
                     Email
                   </p>
                   <a
-                    href="mailto:nexuscore.sg@gmail.com"
+                    href="mailto:support@nexuscore.com.sg"
                     className="text-slate-300 hover:text-white transition-colors"
                   >
-                    nexuscore.sg@gmail.com
+                    support@nexuscore.com.sg
                   </a>
                 </div>
               </div>
