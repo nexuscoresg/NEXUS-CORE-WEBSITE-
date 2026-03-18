@@ -172,7 +172,7 @@ const services = [
     content: (
       <div className="mt-8 flex flex-col h-full">
         <p className="text-slate-600 leading-relaxed mb-8">
-         We offers a comprehensive DPO-as-a-Service, ensuring 100% PDPA compliance through expert audits, policy governance, and staff training. This solution protects organizations from fines of up to S$1,000,000 by replacing multiple consultants with a single, trusted partner. Streamline back-office operations and meet all Singapore compliance requirements seamlessly. Learn more about Stellar's DPO service.
+         We offers a comprehensive DPO-as-a-Service, ensuring 100% PDPA compliance through expert audits, policy governance, and staff training. This solution protects organizations from fines of up to S$1,000,000 by replacing multiple consultants with a single, trusted partner. Streamline back-office operations and meet all Singapore compliance requirements seamlessly. 
         </p>
         <div className="mt-auto relative h-32 rounded-xl overflow-hidden">
           <Image src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=800&q=80" alt="Logistics" fill className="object-cover" referrerPolicy="no-referrer" />
